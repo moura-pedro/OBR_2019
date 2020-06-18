@@ -10,6 +10,8 @@ The Arduino was used for the most of things that we needed to do, such things as
 
 The Raspberry was used for image proccessing. It was really helpfull for detecting color, checking points, victims, ramps, and also helping the line-follower.
 
+Pre-req.: OpenCV
+
 # Arduino + Raspberry Communication
 
 It was used I2C communication.
