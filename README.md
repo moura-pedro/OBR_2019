@@ -14,4 +14,4 @@ Pre-req.: OpenCV
 
 # Arduino + Raspberry Communication
 
-It was used I2C communication.
+It was used i2C communication.
